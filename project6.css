@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(243, 241, 241);
+    margin: 0;
+    padding: 0;
+    
+}
+
+.first-heading{
+    
+    font-family: sans-serif;
+    padding: 10px 100px 10px 10px;
+    border-bottom: 2px solid gray;
+}
+.paragraph1{
+    font-size: 19px; 
+    margin-left: 10px;
+    width: 950px;
+}
+.aside1{
+    height: 1000px;
+    width: 350px;
+    border: 2px solid gray;
+    text-align: center;
+    position: absolute;
+    top: 100px;
+    left: 980px;
+    background-color: rgb(230, 226, 226);
+}
+.p1{
+    
+    padding: 5px;
+    background-color: gray;
+}
+.p2{
+    font-size: medium;
+    text-align: center;
+    font-weight: bold;
+}
+.span1{
+    color: rgba(52, 148, 238, 0.835);
+    }
+.span2{
+    color: rgba(52, 148, 238, 0.835);
+}
+.a1:hover{color: red;}

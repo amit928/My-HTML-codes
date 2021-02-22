@@ -1,0 +1,14 @@
+.square{
+      width: 100px;
+      height: 100px;
+      background-color: red;
+      transition: right 10s linear;
+      /*** SAME AS ***/
+      /*transition-duration: 1s;
+      transition-property: left;
+      transition-timing-function: linear;*/
+      position: absolute;
+      top: 0;
+      right: 0;
+}
+.square:hover{right: 1000px;}
